@@ -1,0 +1,2 @@
+# codemash
+Codemash Schedule Manager
